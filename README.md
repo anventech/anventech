@@ -6,7 +6,8 @@
 
 Puedes contactarme en cualquiera de estas cuentas:
 
-- **Twitter:** [@anventec](https://twitter.com/anventec)
-- **Instagram:** [@anventec](https://instagram.com/anventec)
-- **Discord:** *Anventec#3735*
+**Discord:** Anventec#8287
 
+**Servidor de Discord:** [discord.gg/XvmUX9wph3](https://discord.gg/XvmUX9wph3)
+
+**Twitter:** [@anventec](
