@@ -10,4 +10,4 @@ Puedes contactarme en cualquiera de estas cuentas:
 
 **Servidor de Discord:** [discord.gg/XvmUX9wph3](https://discord.gg/XvmUX9wph3)
 
-**Twitter:** [@anventec](
+**Twitter:** [@anventec](https://twitter.com/anventec)
