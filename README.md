@@ -1,13 +1,9 @@
-# Bienvenido a este perfil :sparkles:
+# Bienvenid@ a este perfil :sparkles:
 
-¡Hola! Me llamo Anventec, soy un aficionado a la tecnología y a la programación que hace bots de Discord y páginas web. 
+¡Hola! Me llamo Anventec, soy un aficionado a la tecnología y a la programación que hacía bots de Discord y ahora hace páginas web. 
 
-## Mis redes sociales :phone:
+## Proyectos :building_construction:
 
-Puedes contactarme en cualquiera de estas cuentas:
+El único proyecto donde estoy trabajando ahora es Minich, una aplicación de mensajería para la línea de comandos que conecta Discord y Telegram.
 
-**Discord:** Anventec#8287
-
-**Servidor de Discord:** [discord.gg/XvmUX9wph3](https://discord.gg/XvmUX9wph3)
-
-**Twitter:** [@anventec](https://twitter.com/anventec)
+Puedes acceder a su repositorio clickeando acá: [anventech/minich](https://github.com/anventech/minich)
