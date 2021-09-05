@@ -20,3 +20,4 @@ Puedes acceder a su repositorio clickeando acá: [anventech/tasknote](https://gi
 ## Otros datos
 
 Servidor de desarrollo: [Anventec's Github](https://discord.gg/TNBbsHWpEk)
+Canal de Telegram: [Anventec's Github](https://t.me/anventecgithub)
