@@ -4,7 +4,7 @@
 
 ## Proyectos :building_construction:
 
-Los únicos proyecto donde estoy trabajando ahora son estos:
+Los proyectos en los que estoy trabajando son:
 
 ### Minich
 Una aplicación de mensajería para la línea de comandos que conecta Discord y Telegram.
@@ -16,3 +16,7 @@ Puedes acceder a su repositorio clickeando acá: [anventech/minich](https://gith
 Un CLI para anotar to-do (cosas por hacer).
 
 Puedes acceder a su repositorio clickeando acá: [anventech/tasknote](https://github.com/anventech/tasknote)
+
+## Otros datos
+
+Servidor de desarrollo: [Anventec's Github](https://discord.gg/TNBbsHWpEk)
